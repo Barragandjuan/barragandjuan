@@ -1,4 +1,6 @@
-# Juan Esteban Barragan Cutiva
+# Hola... 👋!
+
+### Mi nombre es Juan Esteban Barragan Cutiva, Actualmente soy estudiante de segundo semestre de Ingenieria de Sistemas de la Universidad EAN
 
 <!--
 # Hi there 👋
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Estudiante de Ingenieria de Sistemas de la Universidad EAN, actualmente en Segundo Semestre
+
