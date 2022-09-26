@@ -1,4 +1,4 @@
-
+#Juan Esteban Barragan Cutiva
 
 <!--
 # Hi there 👋
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Juan Esteban Barragan Cutiva
 ## Estudiante de Ingenieria de Sistemas de la Universidad EAN, actualmente en Segundo Semestre
