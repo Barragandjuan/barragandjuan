@@ -1,6 +1,10 @@
-# **¡Hola! 👋, Bienvenido a mi repositorio de GitHub**
+## **¡Hola, Bienvenido a mi repositorio de GitHub! 👋**
 
-### *Mi nombre es Juan Esteban Barragan Cutiva, Actualmente soy estudiante de segundo semestre de Ingenieria de Sistemas de la Universidad EAN*
+### *Mi nombre es Juan Esteban Barragan Cutiva, Actualmente soy estudiante de segundo semestre de Ingenieria de Sistemas de la Universidad EAN 💚*
+
+#### Aunque mi experiencia no es muy amplia en el ambito de la programacion, he trabajado con los siguientes lenguajes de programacion :) :
+
+##### <ol><li>Java</li><li>Python</li><li>JavaScript</li></ol>
 
 <!--
 # Hi there 👋
