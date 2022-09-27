@@ -6,6 +6,9 @@
 
 ##### <ol><li>Java</li><li>Python</li><li>JavaScript</li></ol>
 
+![image](https://user-images.githubusercontent.com/114430934/192401296-6826ea4a-fefc-4a50-98d9-4b35c88544c5.png)
+
+
 <!--
 # Hi there 👋
 **Barragandjuan/barragandjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
